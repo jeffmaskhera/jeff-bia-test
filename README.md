@@ -48,16 +48,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Espero disfruten de la prueba
 
-para arrancar el proyecto con: 
+para instalar 
+npm i
 
+para arrancar el proyecto: 
 npm run dev
 
 
 pruebas unitarias
-
 npm test
 
 
 buid
-
 npm run build
